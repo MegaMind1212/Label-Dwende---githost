@@ -1,2 +1,2 @@
-# Stride - Bootstrap 5 HTML template
-A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
+# HTML Site
+A simple but clean site by megamind
